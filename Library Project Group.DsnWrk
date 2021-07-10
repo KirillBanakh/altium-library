@@ -6,3 +6,5 @@ ProjectPath=Passives\Capasitors\Capasitors.LibPkg
 ProjectPath=Passives\Resistors\Resistors.LibPkg
 [Project3]
 ProjectPath=Passives\Inductors\Inductors.LibPkg
+[Project4]
+ProjectPath=Connectors\Connectors.LibPkg
