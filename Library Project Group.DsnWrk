@@ -1,0 +1,8 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=Passives\Capasitors\Capasitors.LibPkg
+[Project2]
+ProjectPath=Passives\Resistors\Resistors.LibPkg
+[Project3]
+ProjectPath=Passives\Inductors\Inductors.LibPkg
