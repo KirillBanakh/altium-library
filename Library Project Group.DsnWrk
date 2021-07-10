@@ -8,3 +8,5 @@ ProjectPath=Passives\Resistors\Resistors.LibPkg
 ProjectPath=Passives\Inductors\Inductors.LibPkg
 [Project4]
 ProjectPath=Connectors\Connectors.LibPkg
+[Project5]
+ProjectPath=Integrated Circuits\Integrated Circuits.LibPkg
