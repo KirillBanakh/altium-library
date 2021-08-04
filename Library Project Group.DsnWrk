@@ -1,12 +1,14 @@
 [ProjectGroup]
 Version=1.0
 [Project1]
-ProjectPath=Passives\Capasitors\Capasitors.LibPkg
+ProjectPath=..\dps-300\DPS-300.PrjPcb
 [Project2]
-ProjectPath=Passives\Resistors\Resistors.LibPkg
+ProjectPath=Passives\Capasitors\Capasitors.LibPkg
 [Project3]
-ProjectPath=Passives\Inductors\Inductors.LibPkg
+ProjectPath=Passives\Resistors\Resistors.LibPkg
 [Project4]
-ProjectPath=Connectors\Connectors.LibPkg
+ProjectPath=Passives\Inductors\Inductors.LibPkg
 [Project5]
+ProjectPath=Connectors\Connectors.LibPkg
+[Project6]
 ProjectPath=Integrated Circuits\Integrated Circuits.LibPkg
